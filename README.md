@@ -1,42 +1,61 @@
-# Mini Event Finder
+# 🌟 Mini Event Finder
 
-Mini Event Finder is a full-stack web application that helps users discover, explore, and join exciting local events easily.
-It features smooth event browsing, participant tracking, and a clean, responsive UI — built with modern web technologies.
+**Mini Event Finder** is a **full-stack web application** that helps users discover, explore, and join exciting local events easily.  
+It features smooth event browsing, participant tracking, and a clean, responsive UI — all built with modern web technologies.
 
-# 🚀 Features
+## 🚀 Features
 
-✅ View all upcoming events with details (title, date, location, participants, etc.)
-✅ Search and filter events by name or location
-✅ Join an event with instant feedback (toast notifications)
-✅ Real-time participant updates
-✅ Beautiful, responsive UI built using React & Tailwind CSS
-✅ Backend API powered by Node.js + Express
-✅ Seamless frontend-backend integration
+- ✅ View all upcoming events with complete details (title, date, location, participants, etc.)
+- ✅ Search and filter events by **name or location**
+- ✅ Join events with **instant feedback (toast notifications)**
+- ✅ Real-time participant updates
+- ✅ Beautiful, **responsive UI** built using React & Tailwind CSS
+- ✅ Backend API powered by **Node.js + Express**
+- ✅ Seamless frontend–backend integration
 
-# 🧠 Tech Stack
-## Frontend: React.js, Tailwind CSS, Framer Motion, React Hot Toast, Lucide React
-## Backend: Node.js, Express.js
+## 🧠 Tech Stack
 
-# ⚙️ Project Structure
-<img width="532" height="817" alt="image" src="https://github.com/user-attachments/assets/a16b8495-810a-44f7-876b-e83c03c287bf" />
+### 🖥️ Frontend
+- React.js  
+- Tailwind CSS  
+- Framer Motion  
+- React Hot Toast  
+- Lucide React  
 
-# 🖼️ Project Preview
-## 🏠 Home Page
-<img width="1771" height="918" alt="image" src="https://github.com/user-attachments/assets/4b486173-6faf-4508-aa41-a4c8d730c5a5" />
-## 📅 Upcoming Events page
-<img width="1739" height="920" alt="image" src="https://github.com/user-attachments/assets/b41110a7-0feb-4f08-bd62-b1dd2a59a034" />
-## ➕ Create Event Page
-<img width="1592" height="915" alt="image" src="https://github.com/user-attachments/assets/a7904da4-f5de-4781-9445-a9048233ef24" />
-## 📅 Event Details page
-<img width="1830" height="899" alt="image" src="https://github.com/user-attachments/assets/9c46b8a7-f7a7-4053-96c1-c1a0b1178158" />
+### ⚙️ Backend
+- Node.js  
+- Express.js  
 
-# Demo Video
-https://drive.google.com/drive/folders/1UhrEUj3Ouy6SPAdr6CvQS68IeRMTEcx4?usp=sharing
+## 🗂️ Project Structure
+<img width="532" height="817" alt="Project Structure" src="https://github.com/user-attachments/assets/a16b8495-810a-44f7-876b-e83c03c287bf" />
 
-# ⚡ Setup Instructions
-## 1️⃣ Clone the repository
+## 🖼️ Project Preview
+
+### 🏠 Home Page  
+<img width="1771" height="918" alt="Home Page" src="https://github.com/user-attachments/assets/4b486173-6faf-4508-aa41-a4c8d730c5a5" />
+
+### 📅 Upcoming Events Page  
+<img width="1739" height="920" alt="Upcoming Events" src="https://github.com/user-attachments/assets/b41110a7-0feb-4f08-bd62-b1dd2a59a034" />
+
+### ➕ Create Event Page  
+<img width="1592" height="915" alt="Create Event" src="https://github.com/user-attachments/assets/a7904da4-f5de-4781-9445-a9048233ef24" />
+
+### 📋 Event Details Page  
+<img width="1830" height="899" alt="Event Details" src="https://github.com/user-attachments/assets/9c46b8a7-f7a7-4053-96c1-c1a0b1178158" />
+
+## 🎥 Demo Video
+
+▶️ **[Watch the Project Demo on Google Drive](https://drive.google.com/drive/folders/1UhrEUj3Ouy6SPAdr6CvQS68IeRMTEcx4?usp=sharing)**  
+
+*(Click to view the full walkthrough video of the Mini Event Finder project)*
+
+## ⚡ Setup Instructions
+
+### 1️⃣ Clone the Repository
+
 git clone https://github.com/SakshiY-Dev/mini-event-finder.git
 cd mini-event-finder
+
 
 ## 2️⃣ Install dependencies
 ### Backend:
