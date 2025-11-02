@@ -53,8 +53,8 @@ It features smooth event browsing, participant tracking, and a clean, responsive
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/SakshiY-Dev/mini-event-finder.git
-cd mini-event-finder
+-git clone https://github.com/SakshiY-Dev/mini-event-finder.git
+-cd mini-event-finder
 
 
 ## 2️⃣ Install dependencies
@@ -72,16 +72,16 @@ npm run dev
 ### Start frontend:
 npm run dev
 
-# 🧩 API Endpoints
+## 🧩 API Endpoints
 <img width="860" height="301" alt="image" src="https://github.com/user-attachments/assets/fcf4273d-9f9d-4eb8-8aa3-69f56343dd4a" />
 
-# 💬 Feedback
+## 💬 Feedback
 If you have suggestions or want to contribute, feel free to open a Pull Request or Issue.
 ⭐ Don’t forget to star the repo if you liked it!
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 Sakshi Yadav
-💼 GitHub Profile : https://github.com/SakshiY-Dev
+💼 GitHub Profile: https://github.com/SakshiY-Dev
 
 
 
