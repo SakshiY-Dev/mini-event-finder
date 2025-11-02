@@ -1,4 +1,4 @@
-<img width="478" height="817" alt="image" src="https://github.com/user-attachments/assets/2c5c09fc-20b0-48d0-9603-0e72e0645b05" /># Mini Event Finder
+# Mini Event Finder
 
 Mini Event Finder is a full-stack web application that helps users discover, explore, and join exciting local events easily.
 It features smooth event browsing, participant tracking, and a clean, responsive UI — built with modern web technologies.
@@ -19,3 +19,12 @@ It features smooth event browsing, participant tracking, and a clean, responsive
 
 # ⚙️ Project Structure
 <img width="532" height="817" alt="image" src="https://github.com/user-attachments/assets/a16b8495-810a-44f7-876b-e83c03c287bf" />
+
+# 🖼️ Project Preview
+<img width="1592" height="915" alt="image" src="https://github.com/user-attachments/assets/a7904da4-f5de-4781-9445-a9048233ef24" />
+<img width="1739" height="920" alt="image" src="https://github.com/user-attachments/assets/b41110a7-0feb-4f08-bd62-b1dd2a59a034" />
+<img width="1830" height="899" alt="image" src="https://github.com/user-attachments/assets/9c46b8a7-f7a7-4053-96c1-c1a0b1178158" />
+
+
+
+
